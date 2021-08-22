@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "cheerio": "*",
+    "mongoose": "^5.13.7",
     "puppeteer": "^10.2.0",
     "puppeteer-extra": "^3.1.18",
     "puppeteer-extra-plugin-stealth": "^2.7.8",
